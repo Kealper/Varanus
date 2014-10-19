@@ -1,0 +1,7 @@
+{
+	"ConfigVer": 1,
+	"CollectorAddr": "127.0.0.1:10514",
+	"LogLevel ": 0,
+	"Adapter": "eth0",
+	"AuthKey": "OQjajErgNfZmbkNI"
+}
